@@ -122,16 +122,23 @@ InAmigos Foundation is an NGO dedicated to connecting volunteers with meaningful
 
 ## 👤 Intern Details
 
-- **Organization:** InAmigos Foundation
-- **Internship Period:** June 2025
-- **Domain:** AI Research & NGO Strategy
-- **Deliverables:** 5 Tasks (Research, Data Analysis, Reports, Strategy)
+| Field | Details |
+|-------|---------|
+| **Name** | Barath G |
+| **College** | Adhiparasakthi College of Engineering |
+| **Organization** | InAmigos Foundation |
+| **Internship Period** | June 2025 |
+| **Domain** | AI Research & NGO Strategy |
+| **Deliverables** | 5 Tasks (Research, Data Analysis, Reports, Strategy) |
+| **LinkedIn** | [Barath G](https://www.linkedin.com/in/barath-g-90bb27337) |
 
 ---
 
 ## 📬 Contact
 
-For any queries related to this project, feel free to reach out via the InAmigos Foundation's official channels.
+Feel free to connect with me on LinkedIn for any queries related to this project:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barath%20G-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/barath-g-90bb27337)
 
 ---
 
